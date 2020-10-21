@@ -1,6 +1,8 @@
 ### Hi there, I'm Gavin. 👋
 
-Web developer leveraging his architecture background to utilize JavaScript, React, Node.js, Express, and other modern web development frameworks.
+*Web developer leveraging his architecture background to utilize JavaScript, React, Node.js, Express, and other modern web development frameworks.*
+
+Check out my latest project [Permitful](https://permitful.com/).
 
 My name’s Gavin and I’m a developer with a background in architectural design and sales. I find a lot of parallels between the way architects design buildings and the way web developers code apps. They both start with a conceptual design to test functionality and the initial framework. Then we develop the aesthetics to make it beautiful. Finally, we dive into the details to put it all together.
 
