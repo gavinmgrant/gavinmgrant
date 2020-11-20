@@ -1,12 +1,14 @@
 ## Hi there, I'm Gavin. 👋
 
-*Web developer leveraging his architecture background to utilize JavaScript, React, Node.js, Express, and other modern web development frameworks.*
+*Software engineer leveraging his architecture background to utilize JavaScript, React, Node.js, Express, and other modern web development frameworks.*
 
 Check out my latest project: [Permitful](https://permitful.com/)
 
 ### About me
 
-My name’s Gavin and I’m a developer with a background in architectural design and sales. I find a lot of parallels between the way architects design buildings and the way web developers code apps. They both start with a conceptual design to test functionality and the initial framework. Then we develop the aesthetics to make it beautiful. Finally, we dive into the details to put it all together.
+Software engineer leveraging his architecture background to utilize JavaScript, React, Node.js, Express, and other modern web development frameworks.
+
+My name’s Gavin and I’m a software engineer with a background in architectural design and sales. I find a lot of parallels between the way architects design buildings and the way engineers code apps. They both start with a conceptual design to test functionality and the initial framework. Then we develop the aesthetics to make it beautiful. Finally, we dive into the details to put it all together.
 
 Working in sales taught me the importance of communication. In sales, you have to tap into your extroverted side to make connections with people or you won’t survive. In architecture, you also need communication skills. You learn how to articulate abstract concepts to laypeople all the time. Communication is so valuable in many industries and tech is no exception.
 
