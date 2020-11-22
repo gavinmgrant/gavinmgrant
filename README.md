@@ -2,7 +2,7 @@
 
 *Software engineer leveraging his architecture background to utilize JavaScript, React, Node.js, Express, and other modern web development frameworks.*
 
-Check out my latest project: [Permitful](https://permitful.com/)
+Check out my latest project: [SoundlyInvest](https://soundlyinvest.com/)
 
 ### About me
 
