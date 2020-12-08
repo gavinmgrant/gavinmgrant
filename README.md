@@ -1,6 +1,6 @@
 ## Hi there, I'm Gavin. 👋
 
-*Software engineer leveraging his architecture background to utilize JavaScript, React, Node.js, Express, and other modern web development frameworks.*
+*I'm a software engineer leveraging his architecture background to utilize JavaScript, React, Node.js, Express, and other modern web development frameworks.*
 
 Check out my latest project: [SoundlyInvest](https://soundlyinvest.com/)
 
