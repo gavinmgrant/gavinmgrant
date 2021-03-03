@@ -1,8 +1,6 @@
 ## Hi there, I'm Gavin. 👋
 
-*I'm a software engineer leveraging his architecture background to utilize JavaScript, React, Node.js, Express, and other modern web development frameworks.*
-
-Check out my latest project: [SoundlyInvest](https://soundlyinvest.com/)
+*I'm a front-end developer at AndAlways leveraging his architecture background to utilize JavaScript, React, Next.js, TypeScript, Node.js, Express, and other modern web development frameworks.*
 
 ### About me
 
