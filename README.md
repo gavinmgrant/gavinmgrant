@@ -14,7 +14,7 @@ Web development captures many of my interests: being creative, digging into the 
 
 ### Specialties 
 
-JavaScript ES6, React, jQuery, HTML5, CSS, a11y, Node.js, Express, Node Package Manager, PostgreSQL, Git, GitHub, Enzyme, Jest, Bash Scripting, WordPress, SEO, RESTful APIs, Modular Code, Prototyping
+JavaScript ES6, React, Next.js, jQuery, HTML5, CSS, a11y, Node.js, Express, Node Package Manager, PostgreSQL, Git, GitHub, Enzyme, Jest, Bash Scripting, WordPress, SEO, RESTful APIs, Modular Code, Prototyping
 
 ### Where to find me
 
