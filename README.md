@@ -1,6 +1,6 @@
 ## Hi there, I'm Gavin. 👋
 
-*I'm a front-end developer at AndAlways leveraging his architecture background to utilize JavaScript, React, Next.js, TypeScript, Node.js, Express, and other modern web development frameworks.*
+*I'm a front-end developer at AndAlways leveraging his architecture background to utilize JavaScript, TypeScript, React, Next.js, Node.js, Express, and other modern web development frameworks.*
 
 ### About me
 
@@ -14,11 +14,11 @@ Web development captures many of my interests: being creative, digging into the 
 
 ### Specialties 
 
-JavaScript ES6, React, Next.js, jQuery, HTML5, CSS, a11y, Node.js, Express, Node Package Manager, PostgreSQL, Git, GitHub, Enzyme, Jest, Bash Scripting, WordPress, SEO, RESTful APIs, Modular Code, Prototyping
+JavaScript ES6, TypeScript, React, Next.js, jQuery, HTML5, CSS, a11y, Node.js, Express, Node Package Manager, PostgreSQL, Git, GitHub, Enzyme, Jest, Bash Scripting, WordPress, SEO, RESTful APIs, Modular Code, Prototyping
 
 ### Where to find me
 
-* [Portfolio](https://gavingrant.dev/)
+* [Portfolio](https://gavingrant.co/)
 * [LinkedIn](https://www.linkedin.com/in/gavinmgrant/)
 * [Twitter](https://twitter.com/higavingrant/)
 * [Instagram](https://www.instagram.com/higavingrant/)
