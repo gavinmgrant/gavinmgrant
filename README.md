@@ -1,6 +1,6 @@
 ## Hi there, I'm Gavin. 👋
 
-*I'm a front-end developer at AndAlways leveraging his architecture background to utilize JavaScript, TypeScript, React, Next.js, Node.js, Express, and other modern web development frameworks. Currently, I'm working as a front-end developer at AndAlways, an e-commerce company that provides uniquely personalized and custom printed gifts.*
+*I'm a developer leveraging his architecture background to utilize JavaScript, TypeScript, React, Next.js, Node.js, Express, and other modern web development frameworks. Currently, I'm working as a front-end developer at AndAlways, an e-commerce company that provides uniquely personalized and custom printed gifts.*
 
 ### Specialties 
 
