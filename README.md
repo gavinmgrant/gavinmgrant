@@ -1,6 +1,6 @@
 ## Hi there, I'm Gavin. 👋
 
-*I'm a developer leveraging his architecture background to utilize JavaScript, TypeScript, React, Next.js, Node.js, Express, and other modern web development frameworks.*
+*I'm a Software Engineer at [Sessions](https://sessionslive.com/).*
 
 ### Specialties 
 
