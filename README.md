@@ -1,10 +1,6 @@
 ## Hi there, I'm Gavin. 👋
 
-*I'm a Software Engineer at [Sessions](https://sessionslive.com/).*
-
-### Specialties 
-
-JavaScript ES6, TypeScript, React, Next.js, jQuery, HTML5, CSS, a11y, Node.js, Express, Node Package Manager, PostgreSQL, Git, GitHub, Enzyme, Jest, Bash Scripting, WordPress, SEO, RESTful APIs, Modular Code, Prototyping
+*I'm a software engineer leveraging my architecture background to utilize JavaScript, TypeScript, React, Next.js, Node.js, Express, and other modern web development frameworks.*
 
 ### Where to find me
 
