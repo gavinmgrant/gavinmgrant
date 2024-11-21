@@ -1,10 +1,11 @@
 ## Hi there, I'm Gavin. 👋
 
-*I'm a software engineer leveraging my architecture background to utilize JavaScript, TypeScript, React, Next.js, Node.js, Express, and other modern web development frameworks.*
+I'm a forward-thinking software engineer, specializing in front-end development. With a background in architecture, I bring a unique perspective to crafting captivating digital experiences. Armed with expertise in JavaScript, TypeScript, React, Next.js, Vue.js, Nuxt.js, Node.js, Express, and more.
+
+Currently, I'm the driving force behind front-end engineering at Happy Companies, where I'm dedicated to delivering top-notch solutions that delight users.
 
 ### Where to find me
 
-* [Portfolio](https://gavingrant.co/)
+* [Portfolio](https://gavingrant.com/)
 * [LinkedIn](https://www.linkedin.com/in/gavinmgrant/)
-* [Twitter](https://twitter.com/higavingrant/)
 * [Instagram](https://www.instagram.com/higavingrant/)
